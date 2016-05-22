@@ -2,7 +2,10 @@
 *.iml
 *.ipr
 *.iws
-target
+.project
+.classpath
+.settings/
+target/
 atlassian-ide-plugin.xml
 node_modules/
 Gemfile.lock
