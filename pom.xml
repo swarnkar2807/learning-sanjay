@@ -7,6 +7,5 @@
   <name>mhyLearning</name>
   <modules>
   	<module>ejbLearning</module>
-  	<module>ejbClient</module>
   </modules>
 </project>
